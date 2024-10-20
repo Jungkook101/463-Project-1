@@ -19,7 +19,7 @@ This code contains multiple aspects to accomplish the task at hand. The file loa
 
 # How to use the system
 
-In this bottom portion of the main code, all you have to do is insert any txt file you want to replace the "a.us.txt". This is a stock analyizer, it is reccommended to insert stock history files. Search on the web and find company stock files that contain, dates, opening prices and close prices to best use this system. 
+In this bottom portion of the main code, all you have to do is insert any txt file you want to replace the "a.us.txt". This is a stock analyizer, it is reccommended to insert stock history files. Search on the web and find company stock files that contain, dates, opening prices and close prices to best use this system. You can find this by looking for the line that says: file_path = "a.us.txt"  # Add file here
 
 ![Screenshot 2024-10-20 170838](https://github.com/user-attachments/assets/eb4e2f9f-ad7b-4190-9aad-2bd336c91eac)
 
